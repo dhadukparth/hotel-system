@@ -1,0 +1,33 @@
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csprojAssemblyReference.cache
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Form1.resources
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Properties.Resources.resources
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.GenerateResource.cache
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CoreCompileInputs.cache
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Home.resources
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.csproj.CopyComplete
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Login.resources
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementDB.mdf
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\HotelManagementDB_log.ldf
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.NewRoom.resources
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Patel Hotel.exe.config
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Patel Hotel.exe
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\bin\Debug\Patel Hotel.pdb
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\Patel Hotel.exe.licenses
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\Patel Hotel.exe
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\Patel Hotel.pdb
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.Customerdata.resources
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.employeesdata.resources
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.EmpUpdate.resources
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.custUpdate.resources
+Z:\Project\Hotel Management\HotelManagementSystem\HotelManagementSystem\obj\Debug\HotelManagementSystem.checkoutCustomer.resources
